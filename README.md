@@ -1,1 +1,2 @@
 # File repository for RISTEK Mobile Development Class (Introduction to Kotlin)
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html) [![Kotlin](https://img.shields.io/badge/kotlin-1.3.72-blue.svg)](http://kotlinlang.org)
