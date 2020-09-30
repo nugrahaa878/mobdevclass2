@@ -1,0 +1,4 @@
+// tambahin ini di atas tag <application ...
+// tujuan nya supaya emulator kita dikasih izin buat akses internet karena gambar kita dari link internet
+
+<uses-permission android:name="android.permission.INTERNET" />
